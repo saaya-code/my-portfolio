@@ -44,8 +44,10 @@ import mongoSkill from "./images/mongoSkill.png";
 import pythonSkill from "./images/pythonSkill.png";
 import expressSkill from "./images/expressSkill.png";
 import gomycodeSVG from "./images/gomycodeLogo.svg";
+import gdsc from "./images/gdsc.png";
 export {
   gomycodeSVG,
+  gdsc,
   mongoSkill,
   pythonSkill,
   gomycodePng,

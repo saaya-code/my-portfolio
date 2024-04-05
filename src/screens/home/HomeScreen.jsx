@@ -7,6 +7,7 @@ import Header from "../../components/header/Header"
 import Hobbies from "../../components/hobbies/Hobbies"
 import Skill from "../../components/skill/Skill"
 import Projects from "../../components/Project/Project"
+import Volunteering from "../../components/volunteering/Volunteering"
 const HomeScreen = () => {
   return (
     <div className="page-container">
@@ -16,6 +17,7 @@ const HomeScreen = () => {
         <Education />
         <Skill />
         <CertificateAward />
+        <Volunteering />
         <Hobbies />
         {/* Effects */}
         <Cursor />
