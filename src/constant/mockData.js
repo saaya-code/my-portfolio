@@ -207,6 +207,15 @@ const DATA = {
   ],
   educationalExperiences: [
     {
+      id: "edu_2",
+      icon: DiamondLgOrange,
+      course: "Software Engineering",
+      institution: "Higher Institute of Applied Sciences and Technology of Sousse",
+      degree: "Enginerring Degree",
+      startDate: "2021",
+      endDate: "2026",
+    },
+    {
       id: "edu_1",
       icon: DiamondLgBlue,
       course: "Baccaluareate Degree in Computer Science", 
@@ -215,15 +224,6 @@ const DATA = {
       startDate: "2017",
       endDate: "2021",
     },
-    {
-      id: "edu_2",
-      icon: DiamondLgOrange,
-      course: "software engineering",
-      institution: "Higher Institute of Applied Sciences and Technology of Sousse",
-      degree: "Enginerring Degree",
-      startDate: "2021",
-      endDate: "2026",
-    }
   ],
   skills: [
     {
