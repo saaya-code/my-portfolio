@@ -62,8 +62,8 @@ const DATA = {
   personalProjects: [
     {
         id: "prof_exp_8",
-        startDate: "Mar 2023",
-        endDate: "Apr 2023",
+        startDate: "Mar 2024",
+        endDate: "Apr 2024",
         position: "Workshops Management System",
         company: {
             name: "A desktop application",
