@@ -151,6 +151,26 @@ const DATA = {
         ]
     },
     {
+      id: "prof_exp_55",
+      startDate: "Feb 2022",
+      endDate: "Mar 2022",
+      position: "Issatso schedule scrapper",
+      diamondColors: [
+          "Blue",
+      ],
+      company: {
+          name: "Scrapping Tool",
+          info: "Pupperteer and vanilla JavaScript"
+      },
+      description: "This tool allows us students to scrape data from our college's website, and consult the classrooms that are not in use at a given date, it was made by puppeteer and vanilla javaScript.",
+      links: [
+          {
+              label: "Github Repo",
+              url: "https://github.com/saaya-code/issatso-classrooms-scrapper"
+          }
+      ]
+  },
+    {
         id: "prof_exp_4",
         startDate: "Jul 2021",
         endDate: "Aug 2021",
