@@ -61,6 +61,23 @@ const DATA = {
   ],
   personalProjects: [
     {
+      id: "prof_exp_9",
+      startDate: "Mar 2024",
+      endDate: "Apr 2024",
+      position: "SuperMarket SaaS manager",
+      company: {
+          name: "A desktop application",
+          info: "Made using Java Swing, java sockets, RMI and MySQL"
+      },
+      description: "The Supermarket Manager Management System (SMMS) is a comprehensive software solution developed using Java Swing, RMI sockets, and MySQL. Designed to streamline operations and enhance communication within supermarkets, SMMS offers real-time management capabilities tailored specifically for supermarket managers.",
+      links: [
+          {
+              label: "Github Repo",
+              url: "https://github.com/saaya-code/SupermarketAdminManager"
+          }
+      ]
+  }
+    ,{
         id: "prof_exp_8",
         startDate: "Mar 2024",
         endDate: "Apr 2024",
