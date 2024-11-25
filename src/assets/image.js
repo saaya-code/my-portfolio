@@ -45,6 +45,7 @@ import pythonSkill from "./images/pythonSkill.png";
 import expressSkill from "./images/expressSkill.png";
 import gomycodeSVG from "./images/gomycodeLogo.svg";
 import gdsc from "./images/gdsc.png";
+import Circonomit from "./images/circonomit.svg";
 export {
   gomycodeSVG,
   gdsc,
@@ -93,4 +94,5 @@ export {
   Travelling,
   Blogging,
   Gaming,
+  Circonomit
 };

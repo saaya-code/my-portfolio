@@ -1,10 +1,8 @@
 import {
-
   Coursera,
   DiamondLgBlue,
   DiamondLgOrange,
   Gaming,
-
   Reading,
   SkillCss,
   SkillFigma,
@@ -18,12 +16,28 @@ import {
   mustUni,
   nodeSkill,
   pythonSkill,
-  reactSkill
-  
+  reactSkill,
+  Circonomit,
+
 } from "../assets/image";
 
 const DATA = {
   professionalExperiences: [
+    {
+      id: "prof_exp_3",
+      startDate: "Jun 2024",
+      endDate: "Present",
+      position: "Software Engineer",
+      diamondColors: ["Blue", "Orange", "Pink"],
+      company: {
+        logo: Circonomit,
+        name: "Circonomit GmbH",
+        info: "Software Development Company - Bridging the gap between finance and sustainability",
+      },
+      description:"Helped in developing Circonomit app, a tool that helps users to track their carbon footprint, as well as any other data to make more sustainable and optimal decisions based on data. Worked on the front-end and back-end of the app, using Next.js. Collaborated with the design team to implement new features and improve the user experience. Conducted code reviews and provided feedback to other developers. Participated in daily stand-up meetings to discuss progress and plan the day's work. Worked closely with the product manager to prioritize tasks and meet deadlines.",
+      links: [
+      ],
+    },
     {
       id: "prof_exp_2",
       startDate: "Aug 2023",
